@@ -11,4 +11,4 @@ It is an Frontend and DataBase Project in which Google Authentication , Like ,Un
 **DataBase:** Firebase
 
 ## 🔗 Links
-[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://social-media-app-bymohit.netlify.app/login)
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://mohitsocialmediaapp.netlify.app/login)
